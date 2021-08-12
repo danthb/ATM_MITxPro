@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ATM_MITxPro/static/css/main.c4a71302.chunk.css",
+    "main.js": "/ATM_MITxPro/static/js/main.4d93b180.chunk.js",
+    "main.js.map": "/ATM_MITxPro/static/js/main.4d93b180.chunk.js.map",
+    "runtime-main.js": "/ATM_MITxPro/static/js/runtime-main.d3cf4026.js",
+    "runtime-main.js.map": "/ATM_MITxPro/static/js/runtime-main.d3cf4026.js.map",
+    "static/js/2.f24ff732.chunk.js": "/ATM_MITxPro/static/js/2.f24ff732.chunk.js",
+    "static/js/2.f24ff732.chunk.js.map": "/ATM_MITxPro/static/js/2.f24ff732.chunk.js.map",
+    "static/js/3.7a5f5012.chunk.js": "/ATM_MITxPro/static/js/3.7a5f5012.chunk.js",
+    "static/js/3.7a5f5012.chunk.js.map": "/ATM_MITxPro/static/js/3.7a5f5012.chunk.js.map",
+    "index.html": "/ATM_MITxPro/index.html",
+    "static/css/main.c4a71302.chunk.css.map": "/ATM_MITxPro/static/css/main.c4a71302.chunk.css.map",
+    "static/js/2.f24ff732.chunk.js.LICENSE.txt": "/ATM_MITxPro/static/js/2.f24ff732.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d3cf4026.js",
+    "static/js/2.f24ff732.chunk.js",
+    "static/css/main.c4a71302.chunk.css",
+    "static/js/main.4d93b180.chunk.js"
+  ]
+}
