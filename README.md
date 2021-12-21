@@ -1,1 +1,1 @@
-# ATM_MITxPro
+# atm-machine
